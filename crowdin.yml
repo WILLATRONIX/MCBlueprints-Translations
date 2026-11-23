@@ -1,5 +1,0 @@
-files:
-  - source: /en.json
-    translation: /translated/%two_letters_code%
-bundles:
-  - 2
