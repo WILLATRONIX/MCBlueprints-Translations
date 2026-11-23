@@ -1,30 +1,30 @@
 {
 	"mcbps": {
-		"slogan": "french",
+		"slogan": "Create, share and download Minecraft creations.",
 		"pages": {
 			"landing": {
-				"discover_button": "french",
-				"create_button": "french"
+				"discover_button": "Discover",
+				"create_button": "Create"
 			},
 			"signup": {
-				"signup_title": "french",
+				"signup_title": "Sign up to MCBlueprints",
 				"email_input": {
-					"descriptor": "french",
-					"placeholder": "french"
+					"descriptor": "Email",
+					"placeholder": "Enter your email"
 				},
 				"password_input": {
-					"descriptor": "french",
-					"placeholder": "french"
+					"descriptor": "Password",
+					"placeholder": "Create a password"
 				},
 				"repeat_password_input": {
-					"descriptor": "french",
-					"placeholder": "french"
+					"descriptor": "Repeat Password",
+					"placeholder": "Enter your password again"
 				},
-				"signup_action": "french",
-				"signup_alternatives_title": "french",
+				"signup_action": "Sign Up",
+				"signup_alternatives_title": "Or sign up with",
 				"signup_existing_account": {
-					"title": "french",
-					"action": "french"
+					"title": "Already have an account?",
+					"action": "Login"
 				}
 			},
 			"about": null,
@@ -41,100 +41,100 @@
 		"components": {
 			"footer": {
 				"policies": {
-					"title": "french",
-					"privacy": "french",
-					"terms_of_service": "french",
-					"copyright": "french",
-					"site_rules": "french",
-					"security_notice": "french"
+					"title": "Policies",
+					"privacy": "Privacy",
+					"terms_of_service": "Terms Of Service",
+					"copyright": "Copyright",
+					"site_rules": "Site Rules",
+					"security_notice": "Security Notice"
 				},
 				"products": {
-					"title": "french"
+					"title": "Products"
 				}
 			},
 			"navbar": {
 				"discover_menu": {
-					"title": "french",
+					"title": "Discover",
 					"content": {
 						"assets": {
-							"title": "french",
-							"description": "french"
+							"title": "Assets",
+							"description": "Builds"
 						},
 						"worlds": {
-							"title": "french",
-							"description": "french"
+							"title": "Worlds",
+							"description": "Builds"
 						},
 						"collections": {
-							"title": "french",
-							"description": "french"
+							"title": "Collections",
+							"description": "Collections"
 						},
 						"creators": {
-							"title": "french",
-							"description": "french"
+							"title": "Creators",
+							"description": "Creators"
 						},
 						"build_teams": {
-							"title": "french",
-							"description": "french"
+							"title": "Build Teams",
+							"description": "Build Teams"
 						}
 					}
 				},
 				"about_menu": {
-					"title": "french",
+					"title": "About",
 					"content": {
 						"terms_of_service": {
-							"title": "french",
-							"description": "french"
+							"title": "Terms Of Service",
+							"description": "Read and review our terms of service."
 						},
 						"privacy_policy": {
-							"title": "french",
-							"description": "french"
+							"title": "Privacy Policy",
+							"description": "Read and review our privacy policy."
 						},
 						"faq_and_guides": {
-							"title": "french",
-							"description": "french"
+							"title": "FAQ and Guides",
+							"description": "Use the guides to assist you with using this site's tools and more."
 						},
 						"help_and_support": {
-							"title": "french",
-							"description": "french"
+							"title": "Help and Support",
+							"description": "Use out support platform or contact us via Discord."
 						}
 					}
 				},
-				"sign_up": "french",
-				"login": "french",
+				"sign_up": "Sign Up",
+				"login": "Login",
 				"notification_menu": {
 					"content": {
 						"clear_all_notifications_button": {
-							"tooltip_text": "french"
+							"tooltip_text": "Clear All Notifications"
 						},
 						"disable_popup_text_button": {
-							"tooltip_text": "french"
+							"tooltip_text": "Disable Popup Toast"
 						},
-						"empty_state": "french"
+						"empty_state": "Nothing to show."
 					}
 				},
 				"user_actions_menu": {
 					"my_account_group": {
-						"group_title": "french",
+						"group_title": "My Account",
 						"group_content": {
-							"profile": "french",
-							"settings": "french"
+							"profile": "Profile",
+							"settings": "Settings"
 						}
 					},
 					"create_group": {
-						"group_title": "french",
+						"group_title": "Create",
 						"group_content": {
-							"new_project": "french",
-							"become_a_creator": "french"
+							"new_project": "New Project",
+							"become_a_creator": "Become a Creator"
 						}
 					},
 					"help_group": {
-						"group_title": "french",
+						"group_title": "Help",
 						"group_content": {
-							"guide": "french",
-							"support": "french"
+							"guide": "Guide",
+							"support": "Support"
 						}
 					},
-					"log_out": "french"
+					"log_out": "Log out"
 				}
 			},
 			"asset_cards": null,
@@ -156,7 +156,7 @@
 				"project": {
 					"service": {
 						"create": {
-							"create_new_publisher_failed": "french"
+							"create_new_publisher_failed": "Failed to create publisher for {project}"
 						}
 					}
 				}
